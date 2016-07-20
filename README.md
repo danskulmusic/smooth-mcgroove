@@ -1,1 +1,2 @@
-# smooth-mcgroove
+Smooth McGroove
+===============
